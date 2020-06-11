@@ -2,3 +2,4 @@ second file
 
 changed second
 git status
+third 
